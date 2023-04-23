@@ -1,2 +1,2 @@
-# Data-engineering-zoomcamp
-Data engineering zoomcamp by Datatalks club 
+## Data-engineering-zoomcamp
+Data engineering zoomcamp by DataTalks club
