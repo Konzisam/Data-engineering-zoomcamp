@@ -253,7 +253,3 @@ services:
     ...
 ```
 
-
-### SQL 
-
-Coming soon!
